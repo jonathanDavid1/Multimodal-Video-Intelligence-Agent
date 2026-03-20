@@ -25,5 +25,9 @@ Asegúrese de tener instaladas las dependencias especificadas en el archivo `req
 
 ```bash
 pip install -r requirements.txt
+```
+### Para ejecutar 
 
-streamlit run "multimodal_agent.py"
+**streamlit run multimodal_agent.py**
+
+
